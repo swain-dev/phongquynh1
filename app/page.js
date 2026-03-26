@@ -465,13 +465,13 @@ export default function Home() {
             <div style={{ backgroundColor: '#fff', borderRadius: '15px', padding: '25px 20px', boxShadow: '0 4px 15px rgba(180,130,130,0.1)' }}>
               <h4 style={{ color: '#8a5d5c', fontSize: '18px', marginBottom: '15px', fontWeight: 600 }}>Cô Dâu - Trúc Quỳnh</h4>
               <div style={{ width: '200px', height: '200px', margin: '0 auto 15px auto', borderRadius: '10px', overflow: 'hidden', border: '1px solid #f0dcdc' }}>
-                <img src="/images/qr_mung_cuoi.png" alt="QR Code" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+                <img src="/images/qr_mung_cuoi.PNG" alt="QR Code" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
               </div>
               <p style={{ color: '#8a5d5c', fontWeight: 'bold', fontSize: '16px', margin: '0 0 5px 0' }}>DUONG TRUC QUYNH</p>
               <p style={{ color: '#ad8685', fontSize: '14px', margin: '0 0 20px 0' }}>Techcombank - 19036312246010</p>
               
               <a 
-                href="/images/qr_mung_cuoi.png" 
+                href="/images/qr_mung_cuoi.PNG" 
                 download="QR_DuongTrucQuynh_Techcombank.png"
                 style={{ 
                   display: 'inline-flex',
