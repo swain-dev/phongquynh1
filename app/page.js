@@ -295,12 +295,12 @@ export default function Home() {
             
             <div style={{ marginBottom: '20px' }}>
               <h4 style={{ fontSize: '16px', color: '#9c7473', marginBottom: '5px' }}>CỖ CHÍNH</h4>
-              <p style={{ color: '#ad8685', fontSize: '15px' }}>10:00 | Chủ Nhật, 26/04/2025</p>
+              <p style={{ color: '#ad8685', fontSize: '15px' }}>10:00 | Chủ Nhật, 26/04/2026</p>
             </div>
 
             <div style={{ marginBottom: '25px' }}>
               <h4 style={{ fontSize: '16px', color: '#9c7473', marginBottom: '5px' }}>LỄ VU QUY</h4>
-              <p style={{ color: '#ad8685', fontSize: '15px' }}>14:00 | Chủ Nhật, 26/04/2025</p>
+              <p style={{ color: '#ad8685', fontSize: '15px' }}>14:00 | Chủ Nhật, 26/04/2026</p>
             </div>
 
             <div style={{ borderTop: '1px dashed #eac4c3', paddingTop: '20px' }}>
